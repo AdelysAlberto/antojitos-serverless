@@ -1,0 +1,16 @@
+aslamanver.vsc-export
+azemoh.one-monokai
+CoenraadS.bracket-pair-colorizer
+dbaeumer.vscode-eslint
+dsznajder.es7-react-js-snippets
+eamodio.gitlens
+formulahendry.auto-close-tag
+formulahendry.auto-complete-tag
+formulahendry.auto-rename-tag
+formulahendry.terminal
+ghmcadams.lintlens
+ms-python.python
+pirateminds.pirate-theme
+vincaslt.highlight-matching-tag
+vscode-icons-team.vscode-icons
+Zignd.html-css-class-completion
